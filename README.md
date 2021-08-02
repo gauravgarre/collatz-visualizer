@@ -10,7 +10,7 @@ The Collatz conjecture is a conjecture in mathematics that concerns sequences de
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You must have Python 3 along with the matplotlib library to run the app. Run the collatz_visualizer.py file.
+You must have Python 3 along with the matplotlib library to run the app. Download and run the collatz_visualizer.py file.
 
 
 <!-- USAGE EXAMPLES -->
