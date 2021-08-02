@@ -1,4 +1,4 @@
-# Click the Color
+# Collatz Visualizer
 
 <!-- ABOUT THE PROJECT -->
 ## About
