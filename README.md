@@ -19,7 +19,7 @@ You must have Python 3 along with the matplotlib library to run the app. Downloa
 When prompted in the command window, enter the number you wish be visualized using the Collatz conjecture.
 
 Example result for the number 231:
-![Screenshot](demo.png)
+![Screenshot](demo.PNG)
 
 <!-- CONTACT -->
 ## Contact
